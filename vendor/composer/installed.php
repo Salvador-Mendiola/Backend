@@ -1,6 +1,6 @@
 <?php return array(
     'root' => array(
-        'name' => 'back/practica1',
+        'name' => 'back/preactica1',
         'pretty_version' => '1.0.0+no-version-set',
         'version' => '1.0.0.0',
         'reference' => NULL,
@@ -10,7 +10,7 @@
         'dev' => true,
     ),
     'versions' => array(
-        'back/practica1' => array(
+        'back/preactica1' => array(
             'pretty_version' => '1.0.0+no-version-set',
             'version' => '1.0.0.0',
             'reference' => NULL,
